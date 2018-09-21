@@ -4,7 +4,7 @@ public class RMBCactual
 {
 public static void main (String[] args)
 {
-final double CONVERSION_FACTOR = 6.5 / 1.0 ;
+final double CONVERSION_FACTOR = 6.8571 / 1.0 ;
 Scanner sc = new Scanner(System.in);
 System.out.print( "Enter the amount of RMB you want converted");
 int b = sc.nextInt();
